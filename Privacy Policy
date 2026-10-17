@@ -1,0 +1,48 @@
+# Privacy Policy — Bleed
+
+**Effective date:** [date]
+
+This policy explains what data the Discord bot **Bleed** collects, stores, and does not collect.
+
+## 1. What We Do Not Collect
+
+Bleed does **not** collect, store, or process any of the following:
+
+- IP addresses
+- Geolocation or location data
+- Hardware identifiers (HWID) or device fingerprints
+- Cookies
+- Third-party analytics or advertising trackers
+
+No third-party services are embedded in the bot or on the associated website for the purpose of tracking users.
+
+## 2. What Is Stored
+
+Only the minimum data required to operate in a server is retained:
+
+- Server-specific configuration you explicitly set, such as custom prefixes, aliases, logging settings, or similar preferences.
+- This data is stored locally and is not shared with third parties.
+
+## 3. The Website
+
+The Terms of Service / Privacy Policy page is static. It embeds no external resources, sets no cookies, and collects nothing from visitors.
+
+## 4. Data Retention & Deletion
+
+Data is retained only as long as needed to provide the features you have configured. Removing the bot from a server and/or contacting the operators (see below) to request deletion will stop further collection and result in removal of stored server configuration where technically feasible.
+
+## 5. Third-Party Services
+
+Discord itself processes data according to Discord's own [Privacy Policy](https://discord.com/privacy). Use of Bleed is subject to Discord's terms in addition to this policy.
+
+## 6. Changes to This Policy
+
+This policy may be updated from time to time. Continued use after an update constitutes acceptance of the revised policy. The effective date above reflects the most recent revision.
+
+## 7. Contact
+
+For privacy questions or deletion requests, contact the operators through **[contact method]**.
+
+---
+
+This policy applies only to the bot Bleed and does not modify Discord's own Privacy Policy.
